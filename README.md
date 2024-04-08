@@ -2,7 +2,7 @@
 
 A programmer friendly German keyboard layout for Windows that allows typing single backticks
 
-*Inspired by https://zauner.nllk.net/post/0014-windows-no-dead-keys/*
+*Inspired by https://zauner.nllk.net/post/0014-windows-no-dead-keys*
 
 ## Install
 
